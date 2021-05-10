@@ -6,3 +6,12 @@
 *.db-wal
 *.opendb
 *.ipch
+*.tlog
+*.txt
+*.obj
+*.ilk
+*.idb
+*.pdb
+*.exe
+*.lib
+*.user

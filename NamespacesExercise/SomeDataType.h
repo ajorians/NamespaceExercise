@@ -2,6 +2,7 @@
 
 struct SomeDataType
 {
-   double _d;
-   int _n;
+   double _d = 0.;
+   int _n = 0;
 };
+
