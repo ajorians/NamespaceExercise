@@ -16,7 +16,7 @@
     <Filter Include="Helpers">
       <UniqueIdentifier>{dd22b2ca-3155-4f95-8f2d-0a2a3f696781}</UniqueIdentifier>
     </Filter>
-    <Filter Include="DataType">
+    <Filter Include="DataTypes">
       <UniqueIdentifier>{0a3cc210-f587-4f0f-800a-38d63f207000}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -33,7 +33,7 @@
       <Filter>Helpers</Filter>
     </ClInclude>
     <ClInclude Include="SomeDataType.h">
-      <Filter>DataType</Filter>
+      <Filter>DataTypes</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
