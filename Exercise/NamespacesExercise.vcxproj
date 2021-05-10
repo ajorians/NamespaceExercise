@@ -154,6 +154,7 @@
   <ItemGroup>
     <ClInclude Include="MyHelper.h" />
     <ClInclude Include="SomeDataType.h" />
+    <ClInclude Include="Fruit.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExerciseLib\ExerciseLib.vcxproj">

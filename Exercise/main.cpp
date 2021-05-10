@@ -1,5 +1,6 @@
 #include "SomeDataType.h"
 #include "MyHelper.h"
+#include "Fruit.h"
 #include <ExerciseLib/SomeDataHelper.h>
 
 int main()
@@ -11,4 +12,6 @@ int main()
 
    SomeDataHelper someDataHelper;
    auto testme = someDataHelper.HelperMethod();
+
+   auto testme2 = helper.TestMethod( Fruit::Pineapple );
 }

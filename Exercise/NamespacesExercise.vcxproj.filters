@@ -35,5 +35,8 @@
     <ClInclude Include="SomeDataType.h">
       <Filter>DataTypes</Filter>
     </ClInclude>
+    <ClInclude Include="Fruit.h">
+      <Filter>DataTypes</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
