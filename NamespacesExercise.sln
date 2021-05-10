@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31220.234
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise", "NamespacesExercise\NamespacesExercise.vcxproj", "{177A6E4D-2817-40A2-B63A-1AF44ABA802C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise", "Exercise\NamespacesExercise.vcxproj", "{177A6E4D-2817-40A2-B63A-1AF44ABA802C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31F1603D-B084-491C-8096-87DBCCBAE263}"
 	ProjectSection(SolutionItems) = preProject
